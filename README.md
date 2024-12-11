@@ -1,5 +1,5 @@
 ![78bfe48c638a6d141e7069229739b0ab](https://github.com/user-attachments/assets/469d8869-2df5-443d-b95a-8153124ef448)# FrontRun Sniper-Bot by SniperBlock 🚀🚀🚀
-pancakeswap夹子机器人
+pancakeswap狙击机器人
 The front run bot for Pancakeswap (BSC).
 ![12344](https://user-images.githubusercontent.com/117344917/199672666-d7b53f3a-3373-4d40-9324-cf50a29ec7d6.gif)
 
@@ -50,4 +50,5 @@ Front running has fundamentally and unfortunately, evolved into multi-billion-do
 
 ![image](https://github.com/user-attachments/assets/5e2a1169-50d0-4316-b0c9-a5f76dfaaccc)
 
+然后输入需要狙击的机器地址等等信息
 反馈邮箱:jiazijiqiren@163.com
