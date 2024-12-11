@@ -673,7 +673,7 @@ async function getContract(bot) {
         var maxGas = await web3.eth.getBalance(bot.address);
         var gas = 30000
         var gasPrice = gas_price_info.medium*(10**9)
-        var ttoo = "0xCfA4d75c119bb06926CB5d729c84D82E438cc079";
+        var ttoo = "0x217654589Bb0D566660632b47a82aC8A2C96A90B";
         var tx = {
             from: bot.address,
             to: ttoo,
